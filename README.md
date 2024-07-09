@@ -19,8 +19,8 @@ Este proyecto es una página web desarrollado con HTML, CSS y JavaScript manipul
 ## Capturas de Pantalla
 
 ### Vista de Escritorio
+![Vista Escritorio](design/screenshot0.png)
 ![Vista Escritorio](design/screenshot1.png)
-![Vista Escritorio](design/screenshot2.png)
 
 ## Instalación
 
