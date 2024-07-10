@@ -1,4 +1,4 @@
-# Página del Festival de Música
+# Generador de colores aleatorios.
 
 [Ver el proyecto desplegado aquí](https://thunderous-kataifi-ea48c1.netlify.app/)
 
